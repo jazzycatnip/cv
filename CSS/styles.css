@@ -1,0 +1,167 @@
+/**********Tag Selectors**********/
+
+a {
+    color: #432C7A;
+}
+
+a:hover {
+    color:#2D033B;
+}
+
+body {
+    background-color: #EBC7E8;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Arvo', serif;
+}
+
+h1 {
+    margin: 2.5rem auto 0px auto;
+    font-family: 'Satisfy', cursive;
+    font-size: 5.625rem;
+    color: #2D033B;
+    line-height: 1.5;
+}
+
+h2 {
+    color: #2D033B;
+    font-size: 2.5rem;
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+}
+
+h3 {
+    color: #432C7A;
+    font-family: 'Dosis', sans-serif;
+}
+
+hr {
+    border-color: #BFACE0;
+    border-style: dotted none none;
+    border-width: .5rem;
+    width: 5rem;
+    margin-bottom: 5rem;
+}
+
+p {
+    line-height: 2;
+    color: #2D033B;
+    
+}
+
+/**********Class Selectors**********/
+
+.bottom-container {
+    background-color: #EBC7E8;
+    padding-top: 3rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.body-img {
+    border-radius: 100%;
+    width: 25%;
+    padding-top: 3rem;
+}
+
+.btn {
+    background: #2D033B;
+    background-image: -webkit-linear-gradient(top, #2D033B, #432C7A);
+    background-image: -moz-linear-gradient(top, #2D033B, #432C7A);
+    background-image: -ms-linear-gradient(top, #2D033B, #432C7A);
+    background-image: -o-linear-gradient(top, #2D033B, #432C7A);
+    background-image: linear-gradient(to bottom, #2D033B, #432C7A);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #BFACE0;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #432C7A;
+    background-image: -webkit-linear-gradient(top, #432C7A, #2D033B);
+    background-image: -moz-linear-gradient(top, #432C7A, #2D033B);
+    background-image: -ms-linear-gradient(top, #432C7A, #2D033B);
+    background-image: -o-linear-gradient(top, #432C7A, #2D033B);
+    background-image: linear-gradient(to bottom, #432C7A, #2D033B);
+    color: #BFACE0;
+    text-decoration: none;
+  }
+
+.contact-me {
+    padding-bottom: 5rem;
+}
+
+.contact-text {
+    padding-bottom: 2rem;
+}
+
+.copyright {
+    color: #BFACE0;
+}
+
+.footer-link {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+.gamer-img {
+    border-radius: 100%;
+    width: 20%;
+    float: left;
+    margin-right: 1.875rem;
+}
+
+.intro-text {
+    margin-bottom: 5rem;
+}
+
+.middle-container {
+    background-color: #A084CA;
+}
+
+.orca-picture {
+    border-radius: 100%;
+    width: 40%;
+    float: right;
+    margin-left: 1.875rem;
+    
+}
+
+.orca-row {
+    margin: 6.25rem auto 6.25rem auto;
+    width: 50%;
+    text-align: left;
+    clear: left;
+}
+
+.orca-text {
+    text-align: right;
+}
+
+.skill-row {
+    margin: 6.25rem auto 6.25rem auto;
+    width: 50%;
+    text-align: left;
+}
+
+.top-container {
+    background-color: #BFACE0;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
