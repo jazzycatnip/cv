@@ -31,7 +31,7 @@ h2 {
 }
 
 h3 {
-    color: #432C7A;
+    color: #3F2A74;
     font-family: 'Dosis', sans-serif;
 }
 
@@ -52,8 +52,9 @@ p {
 /**********Class Selectors**********/
 
 .bottom-container {
-    background-color: #EBC7E8;
+    background-color: #F2D7D9;
     padding-top: 3rem;
+    height: 100px;
 }
 
 .bottom-cloud {
@@ -126,7 +127,12 @@ p {
 }
 
 .middle-container {
-    background-color: #A084CA;
+    background-color: #D6C6E6;
+}
+
+.mountain {
+    position: relative;
+    top: 5px;
 }
 
 .orca-picture {
@@ -155,7 +161,7 @@ p {
 }
 
 .top-container {
-    background-color: #BFACE0;
+    background-color: #D2DAFF;
     padding-top: 100px;
     position: relative;
 }
